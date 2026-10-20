@@ -1,0 +1,13 @@
+fastapi>=0.149.0
+librosa>=0.11.0
+modal>=1.6.2
+numpy>=2.2.6
+pandas>=2.3.3
+pydantic>=2.14.1
+soundfile>=0.14.0
+tensorboard>=2.21.0
+torch>=2.14.1
+torchaudio>=2.11.0
+torchcodec>=0.17.0
+torchvision>=0.29.1
+tqdm>=4.70.1
